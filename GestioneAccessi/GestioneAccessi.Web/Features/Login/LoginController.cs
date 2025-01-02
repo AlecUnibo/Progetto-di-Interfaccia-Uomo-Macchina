@@ -27,37 +27,15 @@ namespace GestioneAccessi.Web.Features.Login
             _sharedLocalizer = sharedLocalizer;
         }
 
-        private ActionResult LoginAndRedirect(UserDetailDTO utente, string returnUrl, bool rememberMe)
-        {
-            var claims = new List<Claim>
-            {
-                new Claim(ClaimTypes.NameIdentifier, utente.Id.ToString()),
-                new Claim(ClaimTypes.Email, utente.Email)
-            };
-
-            var claimsIdentity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
-
-            HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, new ClaimsPrincipal(claimsIdentity), new AuthenticationProperties
-            {
-                ExpiresUtc = (rememberMe) ? DateTimeOffset.UtcNow.AddMonths(3) : null,
-                IsPersistent = rememberMe,
-            });
-
-            if (string.IsNullOrWhiteSpace(returnUrl) == false)
-                return Redirect(returnUrl);
-
-            return RedirectToAction(MVC.Accessi.Giornalieri.Index());
-        }
-
         [HttpGet]
         public virtual IActionResult Login(string returnUrl)
         {
             if (HttpContext.User != null && HttpContext.User.Identity != null && HttpContext.User.Identity.IsAuthenticated)
             {
-                if (string.IsNullOrWhiteSpace(returnUrl) == false)
+                if (!string.IsNullOrWhiteSpace(returnUrl))
                     return Redirect(returnUrl);
 
-                return RedirectToAction(MVC.Example.Users.Index());
+                return RedirectToAction("Index", "Home"); // Reindirizza all'Index di HomeController
             }
 
             var model = new LoginViewModel
@@ -75,30 +53,43 @@ namespace GestioneAccessi.Web.Features.Login
             {
                 try
                 {
+                    // Verifica delle credenziali tramite il servizio
                     var utente = await _sharedService.Query(new CheckLoginCredentialsQuery
                     {
                         Email = model.Email,
                         Password = model.Password,
                     });
 
-                    return LoginAndRedirect(utente, model.ReturnUrl, model.RememberMe);
+                    // Reindirizza all'Index di HomeController se le credenziali sono corrette
+                    return RedirectToAction("Index", "Home");
                 }
                 catch (LoginException e)
                 {
+                    // Aggiunge l'errore nel ModelState se c'è un problema con le credenziali
                     ModelState.AddModelError(LoginErrorModelStateKey, e.Message);
                 }
             }
 
-            return RedirectToAction(MVC.Login.Login());
+            // Ritorna alla vista Login se ci sono errori
+            return View(model);
         }
 
         [HttpPost]
         public virtual IActionResult Logout()
         {
+            // Logout utente
             HttpContext.SignOutAsync();
 
+            // Aggiunge un messaggio di successo e reindirizza a Login
             Alerts.AddSuccess(this, "Utente scollegato correttamente");
-            return RedirectToAction(MVC.Login.Login());
+            return RedirectToAction("Login", "Login");
+        }
+
+        [HttpGet]
+        public virtual IActionResult QRCode()
+        {
+            // Reindirizza alla PaginaBlu quando si preme il QR code
+            return RedirectToAction("PaginaBlu", "AccessoOspite");
         }
     }
 }

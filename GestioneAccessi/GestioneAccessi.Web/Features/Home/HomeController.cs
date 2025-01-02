@@ -11,6 +11,34 @@ namespace GestioneAccessi.Web.Features.Home
         {
         }
 
+        [HttpGet]
+        public virtual IActionResult Index()
+        {
+            // Restituisce la vista Home.cshtml
+            return View("Home");
+        }
+
+        [HttpGet]
+        public virtual IActionResult Stampa()
+        {
+            // Restituisce la vista Stampa.cshtml
+            return View("Stampa");
+        }
+
+        [HttpGet]
+        public virtual IActionResult Giornaliera()
+        {
+            // Restituisce la vista Giornaliera.cshtml
+            return View("Giornaliera");
+        }
+
+        [HttpGet]
+        public virtual IActionResult Pianifica()
+        {
+            // Restituisce la vista Pianifica.cshtml
+            return View("Pianifica");
+        }
+
         [HttpPost]
         public virtual IActionResult ChangeLanguageTo(string cultureName)
         {

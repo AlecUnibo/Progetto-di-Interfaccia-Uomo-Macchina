@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3dQbgDmaWntcs7zOaMKnhsriqnJJyE9I9mIfCvZRqeY=",
+  "Hash": "7J3pc5+XHNyuZpqpvsWNcJEv0XjBUcISbTX9UIRRx9c=",
   "Source": "GestioneAccessi.Web",
   "BasePath": "_content/GestioneAccessi.Web",
   "Mode": "Default",
@@ -10,581 +10,3824 @@
     {
       "Name": "GestioneAccessi.Web\\wwwroot",
       "Source": "GestioneAccessi.Web",
-      "ContentRoot": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
       "BasePath": "_content/GestioneAccessi.Web",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\bundle-global.css",
+      "Identity": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\bundle-global.css",
       "SourceId": "GestioneAccessi.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
       "BasePath": "_content/GestioneAccessi.Web",
-      "RelativePath": "css/bundle-global.css",
+      "RelativePath": "css/bundle-global#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "6yhzf4m38j",
+      "Integrity": "nmQeIlhBO4N54ieJSPBiHoiNSRWniq/IxCp/84XUojM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\bundle-global.css"
     },
     {
-      "Identity": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\bundle-global.min.css",
+      "Identity": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\bundle-global.min.css",
       "SourceId": "GestioneAccessi.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
       "BasePath": "_content/GestioneAccessi.Web",
-      "RelativePath": "css/bundle-global.min.css",
+      "RelativePath": "css/bundle-global.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "den5tgyt7c",
+      "Integrity": "Sx1mE+mVgD798McTa0leZpgztJ6usUsfRzxBzwsZoRA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\bundle-global.min.css"
     },
     {
-      "Identity": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\bundle-vue-multiselect.css",
+      "Identity": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\bundle-vue-multiselect.css",
       "SourceId": "GestioneAccessi.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
       "BasePath": "_content/GestioneAccessi.Web",
-      "RelativePath": "css/bundle-vue-multiselect.css",
+      "RelativePath": "css/bundle-vue-multiselect#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "pajyp9k1f2",
+      "Integrity": "z2yEj00DOz/exljY7gOZL3Zw4pHEGcPY3UeiH97DRHE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\bundle-vue-multiselect.css"
     },
     {
-      "Identity": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\bundle-vue-multiselect.min.css",
+      "Identity": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\bundle-vue-multiselect.min.css",
       "SourceId": "GestioneAccessi.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
       "BasePath": "_content/GestioneAccessi.Web",
-      "RelativePath": "css/bundle-vue-multiselect.min.css",
+      "RelativePath": "css/bundle-vue-multiselect.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "h1szusctqn",
+      "Integrity": "tUbMc2gs+r8NY4zXJso2UXfaeFi429QxUUN5dyZrLVw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\bundle-vue-multiselect.min.css"
     },
     {
-      "Identity": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\site.css",
       "SourceId": "GestioneAccessi.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
       "BasePath": "_content/GestioneAccessi.Web",
-      "RelativePath": "css/site.css",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "qobg2eioy0",
+      "Integrity": "Kvma3oP/lJdRFxcXy1hGCzZLCXAuCelV9y4t2hK1RNY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\site.layout.scss",
+      "Identity": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\site.layout.scss",
       "SourceId": "GestioneAccessi.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
       "BasePath": "_content/GestioneAccessi.Web",
-      "RelativePath": "css/site.layout.scss",
+      "RelativePath": "css/site.layout#[.{fingerprint}]?.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "9282yyefic",
+      "Integrity": "UV8NjcsbE5NCSc/PHlkKHjH3Z0C1/al3zzhHv8r+tNQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.layout.scss"
     },
     {
-      "Identity": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\site.min.css",
+      "Identity": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\site.min.css",
       "SourceId": "GestioneAccessi.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
       "BasePath": "_content/GestioneAccessi.Web",
-      "RelativePath": "css/site.min.css",
+      "RelativePath": "css/site.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "hbo8e3x0po",
+      "Integrity": "4wiZtoFu8PvKv/oukpmzPWc5HyXdbpqR7JqFy3jgHJ4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.min.css"
     },
     {
-      "Identity": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\site.scss",
+      "Identity": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\site.scss",
       "SourceId": "GestioneAccessi.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
       "BasePath": "_content/GestioneAccessi.Web",
-      "RelativePath": "css/site.scss",
+      "RelativePath": "css/site#[.{fingerprint}]?.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "d86fdggbkk",
+      "Integrity": "swW8PgKvA8qKuC5UUCXQDyRr12IUh/8h3WOzKm10eIM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.scss"
     },
     {
-      "Identity": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\site.variables.scss",
+      "Identity": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\site.variables.scss",
       "SourceId": "GestioneAccessi.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
       "BasePath": "_content/GestioneAccessi.Web",
-      "RelativePath": "css/site.variables.scss",
+      "RelativePath": "css/site.variables#[.{fingerprint}]?.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "9mjo5hyp03",
+      "Integrity": "UeLWkr1CCm9wKUh4X+6BUzziqPBTuxyUs+8S70Sv8DE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.variables.scss"
     },
     {
-      "Identity": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\favicon.ico",
       "SourceId": "GestioneAccessi.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
       "BasePath": "_content/GestioneAccessi.Web",
-      "RelativePath": "favicon.ico",
+      "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "61n19gt1b8",
+      "Integrity": "Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\images\\app-logo.png",
+      "Identity": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\images\\aggiungi_giornaliera.jpg",
       "SourceId": "GestioneAccessi.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
       "BasePath": "_content/GestioneAccessi.Web",
-      "RelativePath": "images/app-logo.png",
+      "RelativePath": "images/aggiungi_giornaliera#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "cyrun3scsy",
+      "Integrity": "BAwY61PAJ1xCqdl+tA0N4qO7m92rBJAExiaCLKezY74=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\aggiungi_giornaliera.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\images\\app-logo.png",
+      "SourceId": "GestioneAccessi.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
+      "BasePath": "_content/GestioneAccessi.Web",
+      "RelativePath": "images/app-logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nfiva5qkr1",
+      "Integrity": "E40P2hbQ4ZMJ98rMWY/sU8F+b/N8Nb8rDGjKyu8zUjY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\app-logo.png"
     },
     {
-      "Identity": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\images\\company-logo.png",
+      "Identity": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\images\\Calendario.jpg",
       "SourceId": "GestioneAccessi.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
       "BasePath": "_content/GestioneAccessi.Web",
-      "RelativePath": "images/company-logo.png",
+      "RelativePath": "images/Calendario#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "sh5xkmdlfk",
+      "Integrity": "EFYwNa34O4go/vaZgvfeQ6s8zDQCR7DnUk9N4KNW6/k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Calendario.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\images\\check-in.jpg",
+      "SourceId": "GestioneAccessi.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
+      "BasePath": "_content/GestioneAccessi.Web",
+      "RelativePath": "images/check-in#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j9j06crih7",
+      "Integrity": "hwc+HCG9drRouFIjyuKS78cZL2+wiup9JYpHqIy7xLA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\check-in.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\images\\Check-out.jpg",
+      "SourceId": "GestioneAccessi.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
+      "BasePath": "_content/GestioneAccessi.Web",
+      "RelativePath": "images/Check-out#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e5jmai4m00",
+      "Integrity": "jmO6YQGFLJm27CnBeBTgOje43LQz3dCfi0AO6VPdPOY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Check-out.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\images\\company-logo.png",
+      "SourceId": "GestioneAccessi.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
+      "BasePath": "_content/GestioneAccessi.Web",
+      "RelativePath": "images/company-logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nfiva5qkr1",
+      "Integrity": "E40P2hbQ4ZMJ98rMWY/sU8F+b/N8Nb8rDGjKyu8zUjY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\company-logo.png"
     },
     {
-      "Identity": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-global.js",
+      "Identity": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\images\\pianifica_visita.jpg",
       "SourceId": "GestioneAccessi.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
       "BasePath": "_content/GestioneAccessi.Web",
-      "RelativePath": "js/bundle-global.js",
+      "RelativePath": "images/pianifica_visita#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "2vpea8qn3d",
+      "Integrity": "bkQmeF70zDknyIbqaqahkQfW3VNEambGDR3/skjFrGM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\pianifica_visita.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\images\\qrcode.png",
+      "SourceId": "GestioneAccessi.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
+      "BasePath": "_content/GestioneAccessi.Web",
+      "RelativePath": "images/qrcode#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zqtjw9ljq0",
+      "Integrity": "WxGHfq6ybHY2e9eTIUwap3thatdqMu8huxMU4OEM+qU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\qrcode.png"
+    },
+    {
+      "Identity": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\images\\stampante.jpg",
+      "SourceId": "GestioneAccessi.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
+      "BasePath": "_content/GestioneAccessi.Web",
+      "RelativePath": "images/stampante#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9kbe76tbx2",
+      "Integrity": "9/7XIrDbup7bInfuWTe+DPDWM1dd04bBgr+KfNX9SLk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\stampante.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-global.js",
+      "SourceId": "GestioneAccessi.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
+      "BasePath": "_content/GestioneAccessi.Web",
+      "RelativePath": "js/bundle-global#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vcm11abjex",
+      "Integrity": "b6B7XL7efmZFmWVZavclzDMu2rS4xxFU37M5D6xOFFo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\bundle-global.js"
     },
     {
-      "Identity": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-global.min.js",
+      "Identity": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-global.min.js",
       "SourceId": "GestioneAccessi.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
       "BasePath": "_content/GestioneAccessi.Web",
-      "RelativePath": "js/bundle-global.min.js",
+      "RelativePath": "js/bundle-global.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "6g6zun2btx",
+      "Integrity": "mno1lTJSz0nvn6W26R6xPRWmqxZ/u6xluQXGbucv+MQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\bundle-global.min.js"
     },
     {
-      "Identity": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-global.min.js.map",
+      "Identity": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-global.min.js.map",
       "SourceId": "GestioneAccessi.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
       "BasePath": "_content/GestioneAccessi.Web",
-      "RelativePath": "js/bundle-global.min.js.map",
+      "RelativePath": "js/bundle-global.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "1xolx4px0i",
+      "Integrity": "m22xUpr+ngigK1K+EUaNqRKeJCl1OsjGjCCXVDSSh/Y=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\bundle-global.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-signalr.js",
+      "Identity": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-signalr.js",
       "SourceId": "GestioneAccessi.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
       "BasePath": "_content/GestioneAccessi.Web",
-      "RelativePath": "js/bundle-signalr.js",
+      "RelativePath": "js/bundle-signalr#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "ezi649ojcm",
+      "Integrity": "ZtL4o1rIn5uaC5uOHICn6EZ2UsuHU1j+k4+JaMLSk2U=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\bundle-signalr.js"
     },
     {
-      "Identity": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-vue.js",
+      "Identity": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-vue.js",
       "SourceId": "GestioneAccessi.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
       "BasePath": "_content/GestioneAccessi.Web",
-      "RelativePath": "js/bundle-vue.js",
+      "RelativePath": "js/bundle-vue#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "icn32mq6ym",
+      "Integrity": "8hIHPgQe8UM6wJi9qyLFQqsgB4YLeTZh5+MgDXhuzW4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\bundle-vue.js"
     },
     {
-      "Identity": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-vue.min.js",
+      "Identity": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-vue.min.js",
       "SourceId": "GestioneAccessi.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
       "BasePath": "_content/GestioneAccessi.Web",
-      "RelativePath": "js/bundle-vue.min.js",
+      "RelativePath": "js/bundle-vue.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "gtc86ervlx",
+      "Integrity": "5CBuvb/+WTQ+1VC9OcF7+iJr/VzETBjQnihWQ+WgCN4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\bundle-vue.min.js"
     },
     {
-      "Identity": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-vue.min.js.map",
+      "Identity": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-vue.min.js.map",
       "SourceId": "GestioneAccessi.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
       "BasePath": "_content/GestioneAccessi.Web",
-      "RelativePath": "js/bundle-vue.min.js.map",
+      "RelativePath": "js/bundle-vue.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "awkpzpzblc",
+      "Integrity": "9tLhupNxH+SEuSasLSNJ3cFinNdu/Fre2rbo5/nMKag=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\bundle-vue.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-vue-multiselect.js",
+      "Identity": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-vue-multiselect.js",
       "SourceId": "GestioneAccessi.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
       "BasePath": "_content/GestioneAccessi.Web",
-      "RelativePath": "js/bundle-vue-multiselect.js",
+      "RelativePath": "js/bundle-vue-multiselect#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "up63xcebm1",
+      "Integrity": "wlV5NwZIO2I2LLLnqoAvxr5RMplF64uEMH67yvXzCRY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\bundle-vue-multiselect.js"
     },
     {
-      "Identity": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-vue-multiselect.min.js",
+      "Identity": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-vue-multiselect.min.js",
       "SourceId": "GestioneAccessi.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
       "BasePath": "_content/GestioneAccessi.Web",
-      "RelativePath": "js/bundle-vue-multiselect.min.js",
+      "RelativePath": "js/bundle-vue-multiselect.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "3lf1l6q5ce",
+      "Integrity": "J/JNHKLIO9UzdtWmJYt2uRko++RDn0i9St3kRzM2pZo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\bundle-vue-multiselect.min.js"
     },
     {
-      "Identity": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-vue-multiselect.min.js.map",
+      "Identity": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-vue-multiselect.min.js.map",
       "SourceId": "GestioneAccessi.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
       "BasePath": "_content/GestioneAccessi.Web",
-      "RelativePath": "js/bundle-vue-multiselect.min.js.map",
+      "RelativePath": "js/bundle-vue-multiselect.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "8wfv8l2zcj",
+      "Integrity": "OL57s07d6uUngUoNEwqtC4zBAdPXCSSsVmeYBy16kR0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\bundle-vue-multiselect.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\signalRConnectionManager.d.ts",
+      "Identity": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\signalRConnectionManager.d.ts",
       "SourceId": "GestioneAccessi.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
       "BasePath": "_content/GestioneAccessi.Web",
-      "RelativePath": "js/signalRConnectionManager.d.ts",
+      "RelativePath": "js/signalRConnectionManager.d#[.{fingerprint}]?.ts",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "351aanqhs2",
+      "Integrity": "ufUVswgzmzjQjba1OC1fP5G22xczXzRPpUHbQB/8tKY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\signalRConnectionManager.d.ts"
     },
     {
-      "Identity": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\signalRConnectionManager.js",
+      "Identity": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\signalRConnectionManager.js",
       "SourceId": "GestioneAccessi.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
       "BasePath": "_content/GestioneAccessi.Web",
-      "RelativePath": "js/signalRConnectionManager.js",
+      "RelativePath": "js/signalRConnectionManager#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "lux44p6rew",
+      "Integrity": "o9OClGFvyAXN/nXhxoz9p4+q0zY6H+d2wKiOK1Ynl24=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\signalRConnectionManager.js"
     },
     {
-      "Identity": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\signalRConnectionManager.js.map",
+      "Identity": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\signalRConnectionManager.js.map",
       "SourceId": "GestioneAccessi.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
       "BasePath": "_content/GestioneAccessi.Web",
-      "RelativePath": "js/signalRConnectionManager.js.map",
+      "RelativePath": "js/signalRConnectionManager.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "3gmk1go0y5",
+      "Integrity": "ow9CwnO1CpMVf0GPSvp12RKDMwN7lFlwWDd/oMGtpO8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\signalRConnectionManager.js.map"
     },
     {
-      "Identity": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\signalRConnectionManager.ts",
+      "Identity": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\signalRConnectionManager.ts",
       "SourceId": "GestioneAccessi.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
       "BasePath": "_content/GestioneAccessi.Web",
-      "RelativePath": "js/signalRConnectionManager.ts",
+      "RelativePath": "js/signalRConnectionManager#[.{fingerprint}]?.ts",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "edpzl7kk91",
+      "Integrity": "zqO6qsRNOHD5sN5becxCD3vmC+y59RkauT7fp+KOfUY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\signalRConnectionManager.ts"
     },
     {
-      "Identity": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\site.d.ts",
+      "Identity": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\site.d.ts",
       "SourceId": "GestioneAccessi.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
       "BasePath": "_content/GestioneAccessi.Web",
-      "RelativePath": "js/site.d.ts",
+      "RelativePath": "js/site.d#[.{fingerprint}]?.ts",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "s73j1kg5gh",
+      "Integrity": "+Ld3vfa323XjK6MYZ6PJ4L3B6/PjJLY7yMst/SV2llk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.d.ts"
     },
     {
-      "Identity": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\site.js",
       "SourceId": "GestioneAccessi.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
       "BasePath": "_content/GestioneAccessi.Web",
-      "RelativePath": "js/site.js",
+      "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "chmcv0pfzu",
+      "Integrity": "MDQTNYWH4fnLj5vcA2Oa7Jn9WtqoWaEZSU6+a8/ThPI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\site.js.map",
+      "Identity": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\site.js.map",
       "SourceId": "GestioneAccessi.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
       "BasePath": "_content/GestioneAccessi.Web",
-      "RelativePath": "js/site.js.map",
+      "RelativePath": "js/site.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "femb5jfqkq",
+      "Integrity": "2fj87Kw+Qsbm/QPyvpC6eJN5RLIdfTOrcNaSr8Gm66Q=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js.map"
     },
     {
-      "Identity": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\site.ts",
+      "Identity": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\site.ts",
       "SourceId": "GestioneAccessi.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\",
       "BasePath": "_content/GestioneAccessi.Web",
-      "RelativePath": "js/site.ts",
+      "RelativePath": "js/site#[.{fingerprint}]?.ts",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "f8z73jo7zq",
+      "Integrity": "H/0UNd8ARLF+TT/gnhOGcoNQ5BqFtg3l3i3pWxWo/Ow=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.ts"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/bundle-global.6yhzf4m38j.css",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\bundle-global.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "285943"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nmQeIlhBO4N54ieJSPBiHoiNSRWniq/IxCp/84XUojM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6yhzf4m38j"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bundle-global.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nmQeIlhBO4N54ieJSPBiHoiNSRWniq/IxCp/84XUojM="
+        }
+      ]
+    },
+    {
+      "Route": "css/bundle-global.css",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\bundle-global.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "285943"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nmQeIlhBO4N54ieJSPBiHoiNSRWniq/IxCp/84XUojM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nmQeIlhBO4N54ieJSPBiHoiNSRWniq/IxCp/84XUojM="
+        }
+      ]
+    },
+    {
+      "Route": "css/bundle-global.min.css",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\bundle-global.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "225854"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Sx1mE+mVgD798McTa0leZpgztJ6usUsfRzxBzwsZoRA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Sx1mE+mVgD798McTa0leZpgztJ6usUsfRzxBzwsZoRA="
+        }
+      ]
+    },
+    {
+      "Route": "css/bundle-global.min.den5tgyt7c.css",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\bundle-global.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "225854"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Sx1mE+mVgD798McTa0leZpgztJ6usUsfRzxBzwsZoRA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "den5tgyt7c"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bundle-global.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Sx1mE+mVgD798McTa0leZpgztJ6usUsfRzxBzwsZoRA="
+        }
+      ]
+    },
+    {
+      "Route": "css/bundle-vue-multiselect.css",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\bundle-vue-multiselect.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7158"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z2yEj00DOz/exljY7gOZL3Zw4pHEGcPY3UeiH97DRHE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z2yEj00DOz/exljY7gOZL3Zw4pHEGcPY3UeiH97DRHE="
+        }
+      ]
+    },
+    {
+      "Route": "css/bundle-vue-multiselect.min.css",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\bundle-vue-multiselect.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7140"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tUbMc2gs+r8NY4zXJso2UXfaeFi429QxUUN5dyZrLVw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tUbMc2gs+r8NY4zXJso2UXfaeFi429QxUUN5dyZrLVw="
+        }
+      ]
+    },
+    {
+      "Route": "css/bundle-vue-multiselect.min.h1szusctqn.css",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\bundle-vue-multiselect.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7140"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tUbMc2gs+r8NY4zXJso2UXfaeFi429QxUUN5dyZrLVw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h1szusctqn"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bundle-vue-multiselect.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tUbMc2gs+r8NY4zXJso2UXfaeFi429QxUUN5dyZrLVw="
+        }
+      ]
+    },
+    {
+      "Route": "css/bundle-vue-multiselect.pajyp9k1f2.css",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\bundle-vue-multiselect.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7158"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z2yEj00DOz/exljY7gOZL3Zw4pHEGcPY3UeiH97DRHE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pajyp9k1f2"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bundle-vue-multiselect.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z2yEj00DOz/exljY7gOZL3Zw4pHEGcPY3UeiH97DRHE="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "284434"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kvma3oP/lJdRFxcXy1hGCzZLCXAuCelV9y4t2hK1RNY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kvma3oP/lJdRFxcXy1hGCzZLCXAuCelV9y4t2hK1RNY="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.d86fdggbkk.scss",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\site.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "195"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"swW8PgKvA8qKuC5UUCXQDyRr12IUh/8h3WOzKm10eIM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d86fdggbkk"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.scss"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-swW8PgKvA8qKuC5UUCXQDyRr12IUh/8h3WOzKm10eIM="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.layout.9282yyefic.scss",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\site.layout.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UV8NjcsbE5NCSc/PHlkKHjH3Z0C1/al3zzhHv8r+tNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9282yyefic"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.layout.scss"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UV8NjcsbE5NCSc/PHlkKHjH3Z0C1/al3zzhHv8r+tNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.layout.scss",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\site.layout.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UV8NjcsbE5NCSc/PHlkKHjH3Z0C1/al3zzhHv8r+tNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UV8NjcsbE5NCSc/PHlkKHjH3Z0C1/al3zzhHv8r+tNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.min.css",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\site.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "224753"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4wiZtoFu8PvKv/oukpmzPWc5HyXdbpqR7JqFy3jgHJ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4wiZtoFu8PvKv/oukpmzPWc5HyXdbpqR7JqFy3jgHJ4="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.min.hbo8e3x0po.css",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\site.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "224753"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4wiZtoFu8PvKv/oukpmzPWc5HyXdbpqR7JqFy3jgHJ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hbo8e3x0po"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4wiZtoFu8PvKv/oukpmzPWc5HyXdbpqR7JqFy3jgHJ4="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.qobg2eioy0.css",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "284434"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kvma3oP/lJdRFxcXy1hGCzZLCXAuCelV9y4t2hK1RNY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qobg2eioy0"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kvma3oP/lJdRFxcXy1hGCzZLCXAuCelV9y4t2hK1RNY="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.scss",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\site.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "195"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"swW8PgKvA8qKuC5UUCXQDyRr12IUh/8h3WOzKm10eIM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-swW8PgKvA8qKuC5UUCXQDyRr12IUh/8h3WOzKm10eIM="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.variables.9mjo5hyp03.scss",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\site.variables.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "382"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UeLWkr1CCm9wKUh4X+6BUzziqPBTuxyUs+8S70Sv8DE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9mjo5hyp03"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.variables.scss"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UeLWkr1CCm9wKUh4X+6BUzziqPBTuxyUs+8S70Sv8DE="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.variables.scss",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\site.variables.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "382"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UeLWkr1CCm9wKUh4X+6BUzziqPBTuxyUs+8S70Sv8DE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UeLWkr1CCm9wKUh4X+6BUzziqPBTuxyUs+8S70Sv8DE="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.61n19gt1b8.ico",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "61n19gt1b8"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "images/aggiungi_giornaliera.cyrun3scsy.jpg",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\images\\aggiungi_giornaliera.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7747"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BAwY61PAJ1xCqdl+tA0N4qO7m92rBJAExiaCLKezY74=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 02 Jan 2025 09:50:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cyrun3scsy"
+        },
+        {
+          "Name": "label",
+          "Value": "images/aggiungi_giornaliera.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BAwY61PAJ1xCqdl+tA0N4qO7m92rBJAExiaCLKezY74="
+        }
+      ]
+    },
+    {
+      "Route": "images/aggiungi_giornaliera.jpg",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\images\\aggiungi_giornaliera.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7747"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BAwY61PAJ1xCqdl+tA0N4qO7m92rBJAExiaCLKezY74=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 02 Jan 2025 09:50:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BAwY61PAJ1xCqdl+tA0N4qO7m92rBJAExiaCLKezY74="
+        }
+      ]
+    },
+    {
+      "Route": "images/app-logo.nfiva5qkr1.png",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\images\\app-logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E40P2hbQ4ZMJ98rMWY/sU8F+b/N8Nb8rDGjKyu8zUjY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nfiva5qkr1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/app-logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-E40P2hbQ4ZMJ98rMWY/sU8F+b/N8Nb8rDGjKyu8zUjY="
+        }
+      ]
+    },
+    {
+      "Route": "images/app-logo.png",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\images\\app-logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E40P2hbQ4ZMJ98rMWY/sU8F+b/N8Nb8rDGjKyu8zUjY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-E40P2hbQ4ZMJ98rMWY/sU8F+b/N8Nb8rDGjKyu8zUjY="
+        }
+      ]
+    },
+    {
+      "Route": "images/Calendario.jpg",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\images\\Calendario.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11556"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EFYwNa34O4go/vaZgvfeQ6s8zDQCR7DnUk9N4KNW6/k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 02 Jan 2025 10:44:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EFYwNa34O4go/vaZgvfeQ6s8zDQCR7DnUk9N4KNW6/k="
+        }
+      ]
+    },
+    {
+      "Route": "images/Calendario.sh5xkmdlfk.jpg",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\images\\Calendario.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11556"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EFYwNa34O4go/vaZgvfeQ6s8zDQCR7DnUk9N4KNW6/k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 02 Jan 2025 10:44:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sh5xkmdlfk"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Calendario.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EFYwNa34O4go/vaZgvfeQ6s8zDQCR7DnUk9N4KNW6/k="
+        }
+      ]
+    },
+    {
+      "Route": "images/check-in.j9j06crih7.jpg",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\images\\check-in.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11879"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hwc+HCG9drRouFIjyuKS78cZL2+wiup9JYpHqIy7xLA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 02 Jan 2025 09:43:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j9j06crih7"
+        },
+        {
+          "Name": "label",
+          "Value": "images/check-in.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hwc+HCG9drRouFIjyuKS78cZL2+wiup9JYpHqIy7xLA="
+        }
+      ]
+    },
+    {
+      "Route": "images/check-in.jpg",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\images\\check-in.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11879"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hwc+HCG9drRouFIjyuKS78cZL2+wiup9JYpHqIy7xLA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 02 Jan 2025 09:43:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hwc+HCG9drRouFIjyuKS78cZL2+wiup9JYpHqIy7xLA="
+        }
+      ]
+    },
+    {
+      "Route": "images/Check-out.e5jmai4m00.jpg",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\images\\Check-out.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28398"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jmO6YQGFLJm27CnBeBTgOje43LQz3dCfi0AO6VPdPOY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 02 Jan 2025 09:45:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e5jmai4m00"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Check-out.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jmO6YQGFLJm27CnBeBTgOje43LQz3dCfi0AO6VPdPOY="
+        }
+      ]
+    },
+    {
+      "Route": "images/Check-out.jpg",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\images\\Check-out.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28398"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jmO6YQGFLJm27CnBeBTgOje43LQz3dCfi0AO6VPdPOY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 02 Jan 2025 09:45:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jmO6YQGFLJm27CnBeBTgOje43LQz3dCfi0AO6VPdPOY="
+        }
+      ]
+    },
+    {
+      "Route": "images/company-logo.nfiva5qkr1.png",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\images\\company-logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E40P2hbQ4ZMJ98rMWY/sU8F+b/N8Nb8rDGjKyu8zUjY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nfiva5qkr1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/company-logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-E40P2hbQ4ZMJ98rMWY/sU8F+b/N8Nb8rDGjKyu8zUjY="
+        }
+      ]
+    },
+    {
+      "Route": "images/company-logo.png",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\images\\company-logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E40P2hbQ4ZMJ98rMWY/sU8F+b/N8Nb8rDGjKyu8zUjY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-E40P2hbQ4ZMJ98rMWY/sU8F+b/N8Nb8rDGjKyu8zUjY="
+        }
+      ]
+    },
+    {
+      "Route": "images/pianifica_visita.2vpea8qn3d.jpg",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\images\\pianifica_visita.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90989"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bkQmeF70zDknyIbqaqahkQfW3VNEambGDR3/skjFrGM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 02 Jan 2025 09:53:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2vpea8qn3d"
+        },
+        {
+          "Name": "label",
+          "Value": "images/pianifica_visita.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bkQmeF70zDknyIbqaqahkQfW3VNEambGDR3/skjFrGM="
+        }
+      ]
+    },
+    {
+      "Route": "images/pianifica_visita.jpg",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\images\\pianifica_visita.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90989"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bkQmeF70zDknyIbqaqahkQfW3VNEambGDR3/skjFrGM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 02 Jan 2025 09:53:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bkQmeF70zDknyIbqaqahkQfW3VNEambGDR3/skjFrGM="
+        }
+      ]
+    },
+    {
+      "Route": "images/qrcode.png",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\images\\qrcode.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6852"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WxGHfq6ybHY2e9eTIUwap3thatdqMu8huxMU4OEM+qU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 09:59:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WxGHfq6ybHY2e9eTIUwap3thatdqMu8huxMU4OEM+qU="
+        }
+      ]
+    },
+    {
+      "Route": "images/qrcode.zqtjw9ljq0.png",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\images\\qrcode.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6852"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WxGHfq6ybHY2e9eTIUwap3thatdqMu8huxMU4OEM+qU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 09:59:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zqtjw9ljq0"
+        },
+        {
+          "Name": "label",
+          "Value": "images/qrcode.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WxGHfq6ybHY2e9eTIUwap3thatdqMu8huxMU4OEM+qU="
+        }
+      ]
+    },
+    {
+      "Route": "images/stampante.9kbe76tbx2.jpg",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\images\\stampante.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21281"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9/7XIrDbup7bInfuWTe+DPDWM1dd04bBgr+KfNX9SLk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 09:05:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9kbe76tbx2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/stampante.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9/7XIrDbup7bInfuWTe+DPDWM1dd04bBgr+KfNX9SLk="
+        }
+      ]
+    },
+    {
+      "Route": "images/stampante.jpg",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\images\\stampante.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21281"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9/7XIrDbup7bInfuWTe+DPDWM1dd04bBgr+KfNX9SLk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 09:05:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9/7XIrDbup7bInfuWTe+DPDWM1dd04bBgr+KfNX9SLk="
+        }
+      ]
+    },
+    {
+      "Route": "js/bundle-global.js",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-global.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "235361"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b6B7XL7efmZFmWVZavclzDMu2rS4xxFU37M5D6xOFFo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-b6B7XL7efmZFmWVZavclzDMu2rS4xxFU37M5D6xOFFo="
+        }
+      ]
+    },
+    {
+      "Route": "js/bundle-global.min.6g6zun2btx.js",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-global.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90694"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mno1lTJSz0nvn6W26R6xPRWmqxZ/u6xluQXGbucv+MQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6g6zun2btx"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bundle-global.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mno1lTJSz0nvn6W26R6xPRWmqxZ/u6xluQXGbucv+MQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/bundle-global.min.js",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-global.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90694"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mno1lTJSz0nvn6W26R6xPRWmqxZ/u6xluQXGbucv+MQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mno1lTJSz0nvn6W26R6xPRWmqxZ/u6xluQXGbucv+MQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/bundle-global.min.js.1xolx4px0i.map",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-global.min.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "184668"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m22xUpr+ngigK1K+EUaNqRKeJCl1OsjGjCCXVDSSh/Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1xolx4px0i"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bundle-global.min.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-m22xUpr+ngigK1K+EUaNqRKeJCl1OsjGjCCXVDSSh/Y="
+        }
+      ]
+    },
+    {
+      "Route": "js/bundle-global.min.js.map",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-global.min.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "184668"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m22xUpr+ngigK1K+EUaNqRKeJCl1OsjGjCCXVDSSh/Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-m22xUpr+ngigK1K+EUaNqRKeJCl1OsjGjCCXVDSSh/Y="
+        }
+      ]
+    },
+    {
+      "Route": "js/bundle-global.vcm11abjex.js",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-global.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "235361"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b6B7XL7efmZFmWVZavclzDMu2rS4xxFU37M5D6xOFFo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vcm11abjex"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bundle-global.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-b6B7XL7efmZFmWVZavclzDMu2rS4xxFU37M5D6xOFFo="
+        }
+      ]
+    },
+    {
+      "Route": "js/bundle-signalr.ezi649ojcm.js",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-signalr.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142924"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZtL4o1rIn5uaC5uOHICn6EZ2UsuHU1j+k4+JaMLSk2U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ezi649ojcm"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bundle-signalr.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZtL4o1rIn5uaC5uOHICn6EZ2UsuHU1j+k4+JaMLSk2U="
+        }
+      ]
+    },
+    {
+      "Route": "js/bundle-signalr.js",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-signalr.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142924"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZtL4o1rIn5uaC5uOHICn6EZ2UsuHU1j+k4+JaMLSk2U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZtL4o1rIn5uaC5uOHICn6EZ2UsuHU1j+k4+JaMLSk2U="
+        }
+      ]
+    },
+    {
+      "Route": "js/bundle-vue.icn32mq6ym.js",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-vue.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "353406"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8hIHPgQe8UM6wJi9qyLFQqsgB4YLeTZh5+MgDXhuzW4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "icn32mq6ym"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bundle-vue.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8hIHPgQe8UM6wJi9qyLFQqsgB4YLeTZh5+MgDXhuzW4="
+        }
+      ]
+    },
+    {
+      "Route": "js/bundle-vue.js",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-vue.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "353406"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8hIHPgQe8UM6wJi9qyLFQqsgB4YLeTZh5+MgDXhuzW4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8hIHPgQe8UM6wJi9qyLFQqsgB4YLeTZh5+MgDXhuzW4="
+        }
+      ]
+    },
+    {
+      "Route": "js/bundle-vue.min.gtc86ervlx.js",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-vue.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117730"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5CBuvb/+WTQ+1VC9OcF7+iJr/VzETBjQnihWQ+WgCN4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gtc86ervlx"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bundle-vue.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5CBuvb/+WTQ+1VC9OcF7+iJr/VzETBjQnihWQ+WgCN4="
+        }
+      ]
+    },
+    {
+      "Route": "js/bundle-vue.min.js",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-vue.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117730"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5CBuvb/+WTQ+1VC9OcF7+iJr/VzETBjQnihWQ+WgCN4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5CBuvb/+WTQ+1VC9OcF7+iJr/VzETBjQnihWQ+WgCN4="
+        }
+      ]
+    },
+    {
+      "Route": "js/bundle-vue.min.js.awkpzpzblc.map",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-vue.min.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "285079"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9tLhupNxH+SEuSasLSNJ3cFinNdu/Fre2rbo5/nMKag=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "awkpzpzblc"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bundle-vue.min.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9tLhupNxH+SEuSasLSNJ3cFinNdu/Fre2rbo5/nMKag="
+        }
+      ]
+    },
+    {
+      "Route": "js/bundle-vue.min.js.map",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-vue.min.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "285079"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9tLhupNxH+SEuSasLSNJ3cFinNdu/Fre2rbo5/nMKag=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9tLhupNxH+SEuSasLSNJ3cFinNdu/Fre2rbo5/nMKag="
+        }
+      ]
+    },
+    {
+      "Route": "js/bundle-vue-multiselect.js",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-vue-multiselect.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wlV5NwZIO2I2LLLnqoAvxr5RMplF64uEMH67yvXzCRY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wlV5NwZIO2I2LLLnqoAvxr5RMplF64uEMH67yvXzCRY="
+        }
+      ]
+    },
+    {
+      "Route": "js/bundle-vue-multiselect.min.3lf1l6q5ce.js",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-vue-multiselect.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45161"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J/JNHKLIO9UzdtWmJYt2uRko++RDn0i9St3kRzM2pZo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3lf1l6q5ce"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bundle-vue-multiselect.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J/JNHKLIO9UzdtWmJYt2uRko++RDn0i9St3kRzM2pZo="
+        }
+      ]
+    },
+    {
+      "Route": "js/bundle-vue-multiselect.min.js",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-vue-multiselect.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45161"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J/JNHKLIO9UzdtWmJYt2uRko++RDn0i9St3kRzM2pZo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-J/JNHKLIO9UzdtWmJYt2uRko++RDn0i9St3kRzM2pZo="
+        }
+      ]
+    },
+    {
+      "Route": "js/bundle-vue-multiselect.min.js.8wfv8l2zcj.map",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-vue-multiselect.min.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101394"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OL57s07d6uUngUoNEwqtC4zBAdPXCSSsVmeYBy16kR0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8wfv8l2zcj"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bundle-vue-multiselect.min.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OL57s07d6uUngUoNEwqtC4zBAdPXCSSsVmeYBy16kR0="
+        }
+      ]
+    },
+    {
+      "Route": "js/bundle-vue-multiselect.min.js.map",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-vue-multiselect.min.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101394"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OL57s07d6uUngUoNEwqtC4zBAdPXCSSsVmeYBy16kR0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OL57s07d6uUngUoNEwqtC4zBAdPXCSSsVmeYBy16kR0="
+        }
+      ]
+    },
+    {
+      "Route": "js/bundle-vue-multiselect.up63xcebm1.js",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-vue-multiselect.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wlV5NwZIO2I2LLLnqoAvxr5RMplF64uEMH67yvXzCRY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "up63xcebm1"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bundle-vue-multiselect.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wlV5NwZIO2I2LLLnqoAvxr5RMplF64uEMH67yvXzCRY="
+        }
+      ]
+    },
+    {
+      "Route": "js/signalRConnectionManager.d.351aanqhs2.ts",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\signalRConnectionManager.d.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ufUVswgzmzjQjba1OC1fP5G22xczXzRPpUHbQB/8tKY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "351aanqhs2"
+        },
+        {
+          "Name": "label",
+          "Value": "js/signalRConnectionManager.d.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ufUVswgzmzjQjba1OC1fP5G22xczXzRPpUHbQB/8tKY="
+        }
+      ]
+    },
+    {
+      "Route": "js/signalRConnectionManager.d.ts",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\signalRConnectionManager.d.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ufUVswgzmzjQjba1OC1fP5G22xczXzRPpUHbQB/8tKY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ufUVswgzmzjQjba1OC1fP5G22xczXzRPpUHbQB/8tKY="
+        }
+      ]
+    },
+    {
+      "Route": "js/signalRConnectionManager.edpzl7kk91.ts",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\signalRConnectionManager.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5769"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zqO6qsRNOHD5sN5becxCD3vmC+y59RkauT7fp+KOfUY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "edpzl7kk91"
+        },
+        {
+          "Name": "label",
+          "Value": "js/signalRConnectionManager.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zqO6qsRNOHD5sN5becxCD3vmC+y59RkauT7fp+KOfUY="
+        }
+      ]
+    },
+    {
+      "Route": "js/signalRConnectionManager.js",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\signalRConnectionManager.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5673"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o9OClGFvyAXN/nXhxoz9p4+q0zY6H+d2wKiOK1Ynl24=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o9OClGFvyAXN/nXhxoz9p4+q0zY6H+d2wKiOK1Ynl24="
+        }
+      ]
+    },
+    {
+      "Route": "js/signalRConnectionManager.js.3gmk1go0y5.map",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\signalRConnectionManager.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4916"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ow9CwnO1CpMVf0GPSvp12RKDMwN7lFlwWDd/oMGtpO8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3gmk1go0y5"
+        },
+        {
+          "Name": "label",
+          "Value": "js/signalRConnectionManager.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ow9CwnO1CpMVf0GPSvp12RKDMwN7lFlwWDd/oMGtpO8="
+        }
+      ]
+    },
+    {
+      "Route": "js/signalRConnectionManager.js.map",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\signalRConnectionManager.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4916"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ow9CwnO1CpMVf0GPSvp12RKDMwN7lFlwWDd/oMGtpO8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ow9CwnO1CpMVf0GPSvp12RKDMwN7lFlwWDd/oMGtpO8="
+        }
+      ]
+    },
+    {
+      "Route": "js/signalRConnectionManager.lux44p6rew.js",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\signalRConnectionManager.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5673"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o9OClGFvyAXN/nXhxoz9p4+q0zY6H+d2wKiOK1Ynl24=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lux44p6rew"
+        },
+        {
+          "Name": "label",
+          "Value": "js/signalRConnectionManager.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o9OClGFvyAXN/nXhxoz9p4+q0zY6H+d2wKiOK1Ynl24="
+        }
+      ]
+    },
+    {
+      "Route": "js/signalRConnectionManager.ts",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\signalRConnectionManager.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5769"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zqO6qsRNOHD5sN5becxCD3vmC+y59RkauT7fp+KOfUY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zqO6qsRNOHD5sN5becxCD3vmC+y59RkauT7fp+KOfUY="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.chmcv0pfzu.js",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MDQTNYWH4fnLj5vcA2Oa7Jn9WtqoWaEZSU6+a8/ThPI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "chmcv0pfzu"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MDQTNYWH4fnLj5vcA2Oa7Jn9WtqoWaEZSU6+a8/ThPI="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.d.s73j1kg5gh.ts",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\site.d.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+Ld3vfa323XjK6MYZ6PJ4L3B6/PjJLY7yMst/SV2llk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s73j1kg5gh"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.d.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+Ld3vfa323XjK6MYZ6PJ4L3B6/PjJLY7yMst/SV2llk="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.d.ts",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\site.d.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+Ld3vfa323XjK6MYZ6PJ4L3B6/PjJLY7yMst/SV2llk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+Ld3vfa323XjK6MYZ6PJ4L3B6/PjJLY7yMst/SV2llk="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.f8z73jo7zq.ts",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\site.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6251"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H/0UNd8ARLF+TT/gnhOGcoNQ5BqFtg3l3i3pWxWo/Ow=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f8z73jo7zq"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-H/0UNd8ARLF+TT/gnhOGcoNQ5BqFtg3l3i3pWxWo/Ow="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MDQTNYWH4fnLj5vcA2Oa7Jn9WtqoWaEZSU6+a8/ThPI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MDQTNYWH4fnLj5vcA2Oa7Jn9WtqoWaEZSU6+a8/ThPI="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js.femb5jfqkq.map",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\site.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4979"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2fj87Kw+Qsbm/QPyvpC6eJN5RLIdfTOrcNaSr8Gm66Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "femb5jfqkq"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2fj87Kw+Qsbm/QPyvpC6eJN5RLIdfTOrcNaSr8Gm66Q="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js.map",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\site.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4979"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2fj87Kw+Qsbm/QPyvpC6eJN5RLIdfTOrcNaSr8Gm66Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2fj87Kw+Qsbm/QPyvpC6eJN5RLIdfTOrcNaSr8Gm66Q="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.ts",
+      "AssetFile": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\site.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6251"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H/0UNd8ARLF+TT/gnhOGcoNQ5BqFtg3l3i3pWxWo/Ow=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 08:16:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-H/0UNd8ARLF+TT/gnhOGcoNQ5BqFtg3l3i3pWxWo/Ow="
+        }
+      ]
     }
   ]
 }

@@ -16,7 +16,7 @@ namespace GestioneAccessi.Web
                 {
                     webBuilder.ConfigureKestrel(kestrel =>
                     {
-                        kestrel.AddServerHeader = false; // OWASP: Remove Kestrel response header 
+                        kestrel.AddServerHeader = false; // OWASP: Remove Kestrel response header
                     });
 
                     webBuilder.UseStartup<Startup>();

@@ -1,4 +1,4 @@
-﻿//using GestioneAccessi.Web.Hubs;
+﻿using GestioneAccessi.Services;
 using GestioneAccessi.Web.Infrastructure;
 using GestioneAccessi.Web.SignalR.Hubs;
 using Microsoft.AspNetCore.Authentication.Cookies;
@@ -12,7 +12,6 @@ using Microsoft.Extensions.Hosting;
 using System.Globalization;
 using System.IO;
 using System.Linq;
-using GestioneAccessi.Services;
 
 namespace GestioneAccessi.Web
 {
@@ -37,7 +36,6 @@ namespace GestioneAccessi.Web
                 options.UseInMemoryDatabase(databaseName: "Template");
             });
 
-            // SERVICES FOR AUTHENTICATION
             services.AddSession();
             services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme).AddCookie(options =>
             {
@@ -48,7 +46,7 @@ namespace GestioneAccessi.Web
             var builder = services.AddMvc()
                 .AddViewLocalization(LanguageViewLocationExpanderFormat.Suffix)
                 .AddDataAnnotationsLocalization(options =>
-                {                        // Enable loading SharedResource for ModelLocalizer
+                {
                     options.DataAnnotationLocalizerProvider = (type, factory) =>
                         factory.Create(typeof(SharedResource));
                 });
@@ -72,31 +70,22 @@ namespace GestioneAccessi.Web
                 options.ViewLocationFormats.Add("/Views/Shared/{0}.cshtml");
             });
 
-            // SIGNALR FOR COLLABORATIVE PAGES
             services.AddSignalR();
 
-            // CONTAINER FOR ALL EXTRA CUSTOM SERVICES
             Container.RegisterTypes(services);
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
-            // Configure the HTTP request pipeline.
             if (!env.IsDevelopment())
             {
                 app.UseExceptionHandler("/Home/Error");
-
-                // Https redirection only in production
                 app.UseHsts();
                 app.UseHttpsRedirection();
             }
 
-            // Localization support if you want to
             app.UseRequestLocalization(SupportedCultures.CultureNames);
-
             app.UseRouting();
-
-            // Adding authentication to pipeline
             app.UseSession();
             app.UseAuthentication();
             app.UseAuthorization();
@@ -109,12 +98,10 @@ namespace GestioneAccessi.Web
 
             app.UseEndpoints(endpoints =>
             {
-                // ROUTING PER HUB
                 endpoints.MapHub<TemplateHub>("/templateHub");
 
-                endpoints.MapAreaControllerRoute("Example", "Example", "Example/{controller=Users}/{action=Index}/{id?}");
-                endpoints.MapControllerRoute("accessoOspite", "{controller=AccessoOspite}/{action=Index}");
-                endpoints.MapControllerRoute("default", "{controller=Login}/{action=Login}");
+                // Default route set to Login/Login
+                endpoints.MapControllerRoute("default", "{controller=Login}/{action=Login}/{id?}");
             });
         }
     }
@@ -128,8 +115,6 @@ namespace GestioneAccessi.Web
         {
             CultureNames = new[] { "it-it" };
             Cultures = CultureNames.Select(c => new CultureInfo(c)).ToArray();
-
-            //NB: attenzione nel progetto a settare correttamente <NeutralLanguage>it-IT</NeutralLanguage>
         }
     }
 }

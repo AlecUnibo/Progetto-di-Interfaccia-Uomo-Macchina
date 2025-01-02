@@ -1,0 +1,41 @@
+﻿@{
+    Layout = null;  // Assicurati di non utilizzare un layout predefinito, se necessario
+}
+
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <style>
+        h1 {
+            font-size: 3em;
+            margin: 20px 0;
+        }
+
+        img {
+            display: block;
+            margin: 20px auto;
+            width: 10%;
+            height: 10%;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h1>PAGINA DI HOME</h1>
+
+    <a href="@Url.Action("Stampa", "Home")">
+        <img src="~/images/stampante.jpg" alt="Stampa">
+    </a>
+
+    <a href="@Url.Action("Giornaliera", "Home")">
+        <img src="~/images/aggiungi_giornaliera.jpg" alt=" Aggiungi Visita Giornaliera">
+    </a>
+
+    <a href="@Url.Action("Pianifica", "Home")">
+        <img src="~/images/pianifica_visita.jpg" alt="Pianifica Visita">
+    </a>
+</body>
+</html>

@@ -1,5 +1,4 @@
 using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Localization;
 using Microsoft.AspNetCore.Mvc;
 using System;
 
@@ -7,75 +6,90 @@ namespace GestioneAccessi.Web.Features.AccessoOspite
 {
     public partial class AccessoOspiteController : Controller
     {
-        public AccessoOspiteController()
-        {
-        }
+        private const string StatoAccessoCookie = "StatoAccesso"; // Nome del cookie per stato ingresso/uscita
 
-        /// <summary>
-        /// Scelta ingresso o uscita in realtà questa pagina sarebbe raggiunta tramite QRCode
-        /// </summary>
-        /// <returns></returns>
         [HttpGet]
         public virtual IActionResult Index()
         {
-            //TODO: in base a presenza cookie ingresso vado a ingresso o uscita
-            return RedirectToAction(MVC.AccessoOspite.Ingresso());
-            return RedirectToAction(MVC.AccessoOspite.Uscita());
+            // Recupera il valore del cookie
+            var statoAccesso = Request.Cookies[StatoAccessoCookie];
+
+            // Se il cookie è vuoto o indica "Ingresso", reindirizza alla pagina di ingresso
+            if (string.IsNullOrEmpty(statoAccesso) || statoAccesso == "Ingresso")
+            {
+                return RedirectToAction(nameof(Ingresso));
+            }
+
+            // Se il cookie indica "Uscita", reindirizza alla pagina di uscita
+            return RedirectToAction(nameof(Uscita));
         }
 
-        /// <summary>
-        /// Mostro form ingresso
-        /// </summary>
-        /// <returns></returns>
-        /// <exception cref="NotImplementedException"></exception>
         [HttpGet]
         public virtual IActionResult Ingresso()
         {
-            throw new NotImplementedException();
+            ViewData["Title"] = "Pagina di Ingresso";
+            return View();
         }
 
-        /// <summary>
-        /// Effettuo ingresso
-        /// </summary>
-        /// <param name="o"></param>
-        /// <returns></returns>
-        /// <exception cref="NotImplementedException"></exception>
         [HttpPost]
-        public virtual IActionResult Ingresso(object o)
+        public virtual IActionResult Ingresso(string Nome, string Cognome, string Azienda)
         {
-            // TODO: Salvo cookie ingresso
-            throw new NotImplementedException();
+            // Validazione dei campi
+            if (string.IsNullOrWhiteSpace(Nome) || string.IsNullOrWhiteSpace(Cognome) || string.IsNullOrWhiteSpace(Azienda))
+            {
+                ModelState.AddModelError(string.Empty, "Tutti i campi sono obbligatori.");
+                return View();
+            }
+
+            // Imposta il cookie a "Uscita" con TTL di 3 ore
+            Response.Cookies.Append(StatoAccessoCookie, "Uscita", new CookieOptions
+            {
+                Expires = DateTimeOffset.UtcNow.AddHours(3),
+                HttpOnly = true
+            });
+
+            // Reindirizza alla pagina Check-in
+            return RedirectToAction(nameof(CheckIn));
         }
 
-        /// <summary>
-        /// Comunico esito ingresso
-        /// </summary>
-        /// <returns></returns>
-        /// <exception cref="NotImplementedException"></exception>
         [HttpGet]
-        public virtual IActionResult IngressoRegistrato()
+        public virtual IActionResult CheckIn()
         {
-            throw new NotImplementedException();
+            return View();
         }
 
         [HttpGet]
         public virtual IActionResult Uscita()
         {
-            throw new NotImplementedException();
+            ViewData["Title"] = "Pagina di Uscita";
+
+            return View("Uscita");
         }
 
         [HttpPost]
         public virtual IActionResult Uscita(object o)
         {
-            // TODO: rimuovo cookie ingresso
-            throw new NotImplementedException();
-
+            return RedirectToAction(nameof(CheckOut));
         }
 
         [HttpGet]
-        public virtual IActionResult UscitaRegistrata()
+       
+
+        [HttpGet]
+        public virtual IActionResult CheckOut()
         {
-            throw new NotImplementedException();
+            // Cancella il cookie quando si accede alla pagina di uscita
+            Response.Cookies.Delete(StatoAccessoCookie);
+
+            return View();
+        }
+
+        [HttpGet]
+        public virtual IActionResult PaginaBlu()
+        {
+            Response.Headers.Add("Refresh", "2; url=" + Url.Action(nameof(Index)));
+            return Content("<body style='background-color:blue; color:white; display:flex; justify-content:center; align-items:center; height:100vh;'>" +
+                           "<h1>Attendi un secondo!!</h1></body>", "text/html");
         }
     }
 }

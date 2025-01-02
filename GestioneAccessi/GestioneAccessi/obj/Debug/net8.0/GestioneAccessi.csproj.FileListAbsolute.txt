@@ -11,3 +11,16 @@ C:\Users\ale03\source\repos\GestioneAccessi\GestioneAccessi\obj\Debug\net8.0\Ges
 C:\Users\ale03\source\repos\GestioneAccessi\GestioneAccessi\obj\Debug\net8.0\refint\GestioneAccessi.dll
 C:\Users\ale03\source\repos\GestioneAccessi\GestioneAccessi\obj\Debug\net8.0\GestioneAccessi.pdb
 C:\Users\ale03\source\repos\GestioneAccessi\GestioneAccessi\obj\Debug\net8.0\ref\GestioneAccessi.dll
+C:\Users\Luca Zenobi\OneDrive\Desktop\interfaccia\GestioneAccessi\GestioneAccessi\bin\Debug\net8.0\GestioneAccessi.deps.json
+C:\Users\Luca Zenobi\OneDrive\Desktop\interfaccia\GestioneAccessi\GestioneAccessi\bin\Debug\net8.0\GestioneAccessi.dll
+C:\Users\Luca Zenobi\OneDrive\Desktop\interfaccia\GestioneAccessi\GestioneAccessi\bin\Debug\net8.0\GestioneAccessi.pdb
+C:\Users\Luca Zenobi\OneDrive\Desktop\interfaccia\GestioneAccessi\GestioneAccessi\obj\Debug\net8.0\GestioneAccessi.csproj.AssemblyReference.cache
+C:\Users\Luca Zenobi\OneDrive\Desktop\interfaccia\GestioneAccessi\GestioneAccessi\obj\Debug\net8.0\GestioneAccessi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca Zenobi\OneDrive\Desktop\interfaccia\GestioneAccessi\GestioneAccessi\obj\Debug\net8.0\GestioneAccessi.AssemblyInfoInputs.cache
+C:\Users\Luca Zenobi\OneDrive\Desktop\interfaccia\GestioneAccessi\GestioneAccessi\obj\Debug\net8.0\GestioneAccessi.AssemblyInfo.cs
+C:\Users\Luca Zenobi\OneDrive\Desktop\interfaccia\GestioneAccessi\GestioneAccessi\obj\Debug\net8.0\GestioneAccessi.csproj.CoreCompileInputs.cache
+C:\Users\Luca Zenobi\OneDrive\Desktop\interfaccia\GestioneAccessi\GestioneAccessi\obj\Debug\net8.0\GestioneAccessi.sourcelink.json
+C:\Users\Luca Zenobi\OneDrive\Desktop\interfaccia\GestioneAccessi\GestioneAccessi\obj\Debug\net8.0\GestioneAccessi.dll
+C:\Users\Luca Zenobi\OneDrive\Desktop\interfaccia\GestioneAccessi\GestioneAccessi\obj\Debug\net8.0\refint\GestioneAccessi.dll
+C:\Users\Luca Zenobi\OneDrive\Desktop\interfaccia\GestioneAccessi\GestioneAccessi\obj\Debug\net8.0\GestioneAccessi.pdb
+C:\Users\Luca Zenobi\OneDrive\Desktop\interfaccia\GestioneAccessi\GestioneAccessi\obj\Debug\net8.0\ref\GestioneAccessi.dll

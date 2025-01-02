@@ -1,124 +1,156 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\bundle-global.css",
+      "Id": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\bundle-global.css",
       "PackagePath": "staticwebassets\\css\\bundle-global.css"
     },
     {
-      "Id": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\bundle-global.min.css",
+      "Id": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\bundle-global.min.css",
       "PackagePath": "staticwebassets\\css\\bundle-global.min.css"
     },
     {
-      "Id": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\bundle-vue-multiselect.css",
+      "Id": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\bundle-vue-multiselect.css",
       "PackagePath": "staticwebassets\\css\\bundle-vue-multiselect.css"
     },
     {
-      "Id": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\bundle-vue-multiselect.min.css",
+      "Id": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\bundle-vue-multiselect.min.css",
       "PackagePath": "staticwebassets\\css\\bundle-vue-multiselect.min.css"
     },
     {
-      "Id": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\site.layout.scss",
+      "Id": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\site.layout.scss",
       "PackagePath": "staticwebassets\\css\\site.layout.scss"
     },
     {
-      "Id": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\site.min.css",
+      "Id": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\site.min.css",
       "PackagePath": "staticwebassets\\css\\site.min.css"
     },
     {
-      "Id": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\site.scss",
+      "Id": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\site.scss",
       "PackagePath": "staticwebassets\\css\\site.scss"
     },
     {
-      "Id": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\site.variables.scss",
+      "Id": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\css\\site.variables.scss",
       "PackagePath": "staticwebassets\\css\\site.variables.scss"
     },
     {
-      "Id": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\images\\app-logo.png",
+      "Id": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\images\\Calendario.jpg",
+      "PackagePath": "staticwebassets\\images\\Calendario.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\images\\Check-out.jpg",
+      "PackagePath": "staticwebassets\\images\\Check-out.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\images\\aggiungi_giornaliera.jpg",
+      "PackagePath": "staticwebassets\\images\\aggiungi_giornaliera.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\images\\app-logo.png",
       "PackagePath": "staticwebassets\\images\\app-logo.png"
     },
     {
-      "Id": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\images\\company-logo.png",
+      "Id": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\images\\check-in.jpg",
+      "PackagePath": "staticwebassets\\images\\check-in.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\images\\company-logo.png",
       "PackagePath": "staticwebassets\\images\\company-logo.png"
     },
     {
-      "Id": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-global.js",
+      "Id": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\images\\pianifica_visita.jpg",
+      "PackagePath": "staticwebassets\\images\\pianifica_visita.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\images\\qrcode.png",
+      "PackagePath": "staticwebassets\\images\\qrcode.png"
+    },
+    {
+      "Id": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\images\\stampante.jpg",
+      "PackagePath": "staticwebassets\\images\\stampante.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-global.js",
       "PackagePath": "staticwebassets\\js\\bundle-global.js"
     },
     {
-      "Id": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-global.min.js",
+      "Id": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-global.min.js",
       "PackagePath": "staticwebassets\\js\\bundle-global.min.js"
     },
     {
-      "Id": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-global.min.js.map",
+      "Id": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-global.min.js.map",
       "PackagePath": "staticwebassets\\js\\bundle-global.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-signalr.js",
+      "Id": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-signalr.js",
       "PackagePath": "staticwebassets\\js\\bundle-signalr.js"
     },
     {
-      "Id": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-vue-multiselect.js",
+      "Id": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-vue-multiselect.js",
       "PackagePath": "staticwebassets\\js\\bundle-vue-multiselect.js"
     },
     {
-      "Id": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-vue-multiselect.min.js",
+      "Id": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-vue-multiselect.min.js",
       "PackagePath": "staticwebassets\\js\\bundle-vue-multiselect.min.js"
     },
     {
-      "Id": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-vue-multiselect.min.js.map",
+      "Id": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-vue-multiselect.min.js.map",
       "PackagePath": "staticwebassets\\js\\bundle-vue-multiselect.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-vue.js",
+      "Id": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-vue.js",
       "PackagePath": "staticwebassets\\js\\bundle-vue.js"
     },
     {
-      "Id": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-vue.min.js",
+      "Id": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-vue.min.js",
       "PackagePath": "staticwebassets\\js\\bundle-vue.min.js"
     },
     {
-      "Id": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-vue.min.js.map",
+      "Id": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\bundle-vue.min.js.map",
       "PackagePath": "staticwebassets\\js\\bundle-vue.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\signalRConnectionManager.d.ts",
+      "Id": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\signalRConnectionManager.d.ts",
       "PackagePath": "staticwebassets\\js\\signalRConnectionManager.d.ts"
     },
     {
-      "Id": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\signalRConnectionManager.js",
+      "Id": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\signalRConnectionManager.js",
       "PackagePath": "staticwebassets\\js\\signalRConnectionManager.js"
     },
     {
-      "Id": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\signalRConnectionManager.js.map",
+      "Id": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\signalRConnectionManager.js.map",
       "PackagePath": "staticwebassets\\js\\signalRConnectionManager.js.map"
     },
     {
-      "Id": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\signalRConnectionManager.ts",
+      "Id": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\signalRConnectionManager.ts",
       "PackagePath": "staticwebassets\\js\\signalRConnectionManager.ts"
     },
     {
-      "Id": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\site.d.ts",
+      "Id": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\site.d.ts",
       "PackagePath": "staticwebassets\\js\\site.d.ts"
     },
     {
-      "Id": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\site.js.map",
+      "Id": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\site.js.map",
       "PackagePath": "staticwebassets\\js\\site.js.map"
     },
     {
-      "Id": "C:\\Users\\ale03\\source\\repos\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\site.ts",
+      "Id": "C:\\Users\\Luca Zenobi\\OneDrive\\Desktop\\interfaccia\\GestioneAccessi\\GestioneAccessi.Web\\wwwroot\\js\\site.ts",
       "PackagePath": "staticwebassets\\js\\site.ts"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GestioneAccessi.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GestioneAccessi.Web.Microsoft.AspNetCore.StaticWebAssets.props",

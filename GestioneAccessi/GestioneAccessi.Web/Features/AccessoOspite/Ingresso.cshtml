@@ -1,0 +1,133 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Ingresso</title>
+    <style>
+        body {
+            background-color: #007bff;
+            color: white;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .form-box {
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+            text-align: center;
+            width: 90%;
+            max-width: 400px;
+        }
+
+            .form-box h1 {
+                color: black;
+                margin-bottom: 20px;
+            }
+
+            .form-box input {
+                width: 100%;
+                padding: 10px;
+                margin-bottom: 10px;
+                border: 1px solid #ccc;
+                border-radius: 4px;
+            }
+
+                .form-box input:focus {
+                    outline: none;
+                    border-color: #007bff;
+                }
+
+            .form-box button {
+                width: 100%;
+                padding: 10px;
+                background-color: #007bff;
+                color: white;
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+            }
+
+                .form-box button:hover {
+                    background-color: #0056b3;
+                }
+
+        .error {
+            color: red;
+            font-size: 0.9em;
+            margin-bottom: 10px;
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="form-box">
+            <h1>Planner.com</h1>
+            <form id="formIngresso" method="post" action="/AccessoOspite/Ingresso">
+                <input type="text" name="Nome" id="nome" placeholder="Nome" />
+                <div class="error" id="errorNome">* Campo obbligatorio da compilare!!</div>
+
+                <input type="text" name="Cognome" id="cognome" placeholder="Cognome" />
+                <div class="error" id="errorCognome">* Campo obbligatorio da compilare!!</div>
+
+                <input type="text" name="Azienda" id="azienda" placeholder="Azienda" />
+                <div class="error" id="errorAzienda">* Campo obbligatorio da compilare!!</div>
+
+                <button type="submit">Start Your Visit Now</button>
+            </form>
+        </div>
+    </div>
+    <script>
+        document.getElementById("formIngresso").addEventListener("submit", function (e) {
+            let valid = true;
+
+            const nome = document.getElementById("nome");
+            const cognome = document.getElementById("cognome");
+            const azienda = document.getElementById("azienda");
+
+            const errorNome = document.getElementById("errorNome");
+            const errorCognome = document.getElementById("errorCognome");
+            const errorAzienda = document.getElementById("errorAzienda");
+
+            // Validazione Nome
+            if (nome.value.trim() === "") {
+                errorNome.style.display = "block";
+                valid = false;
+            } else {
+                errorNome.style.display = "none";
+            }
+
+            // Validazione Cognome
+            if (cognome.value.trim() === "") {
+                errorCognome.style.display = "block";
+                valid = false;
+            } else {
+                errorCognome.style.display = "none";
+            }
+
+            // Validazione Azienda
+            if (azienda.value.trim() === "") {
+                errorAzienda.style.display = "block";
+                valid = false;
+            } else {
+                errorAzienda.style.display = "none";
+            }
+
+            if (!valid) e.preventDefault();
+        });
+    </script>
+</body>
+</html>
